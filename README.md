@@ -1,6 +1,6 @@
 ### Hi there, I'm Alaa 👋
 
-## I'm an Engineer, Developer, and Content Creator!!
+## I'm an Engineer, a Developer, and a Content Creator!!
 
 - 🔭 I have a passion for front-end, UI, Animations, and 3D Graphics!
 - 🌱 I’m on track for learning more about React, Redux, TypeScript, and Next.js!
