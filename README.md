@@ -10,8 +10,7 @@
 
 ### Spotify Playing 🎧
 
-&nbsp; <br> [<img src="https://spotify-playlist0.vercel.app/api/spotify-playing" alt="spotify-now-playing" width="350" />]
-  (https://open.spotify.com/user/Alaa-Elghamry)
+[![Spotify](https://alaa-elghamry.vercel.app/api/spotify)](https://open.spotify.com/user/Alaa-Elghamry)
 
 
 ### Connect with me:
