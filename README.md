@@ -78,12 +78,7 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Alaa's GitHub Stats" src="https://github-readme-stats.Alaa-Elghamry.vercel.app/api?username=Alaa-Elghamry&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/Alaa_Elghamry7
