@@ -9,9 +9,10 @@
 - ⚡ Fun fact: I'm a movie Geek, I love to draw and solve problems
 
 ### Spotify Playing 🎧
-
-[<img src="https://novatorem-alaa-elghamry.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>]
+[![Spotify](https://alaa-elghamry/novatorem.vercel.app/api/spotify)]
 (https://open.spotify.com/user/Alaa-Elghamry)
+<!-- [<img src="https://novatorem-alaa-elghamry.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>]
+(https://open.spotify.com/user/Alaa-Elghamry) -->
 
 
 ### Connect with me:
