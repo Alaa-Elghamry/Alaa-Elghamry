@@ -8,6 +8,11 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects and solve more coding challenges
 - ⚡ Fun fact: I'm a movie Geek, I love to draw and solve problems
 
+### Spotify Playing 🎧
+
+[![Spotify](https://alaa-elghamry.vercel.app/api/spotify)](https://open.spotify.com/user/Alaa-Elghamry)
+
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
