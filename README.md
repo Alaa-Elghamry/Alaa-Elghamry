@@ -17,9 +17,8 @@
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Alaa-Elghamry)
 
   </td>
-  <td width="50%">
-
-<br>
+  </table>
+  
 <!-- [![Spotify](https://novatorem.vercel.app/api/spotify)] -->
 
 <!-- [<img src="https://novatorem-alaa-elghamry.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>]
