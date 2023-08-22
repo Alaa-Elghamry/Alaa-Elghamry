@@ -5,7 +5,7 @@
 - 🔭 I have a passion for front-end, UI, Animations, and 3D Graphics!
 - 🌱 I’m on track for learning more about React, Redux, TypeScript, and Next.js!
 - 👯 I’m looking to collaborate with other Developers and content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects and solve more coding challenges
+- 🥅 2023 Goals: Contribute more to Open Source projects and solve more coding challenges
 - ⚡ Fun fact: I'm a movie Geek, I love to draw and solve problems
 
 ### Spotify Playing 🎧
